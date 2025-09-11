@@ -1,2 +1,3 @@
-# Udaan-airLine
+# 🛫 Udaan-airLine – Explore the Skies of India!
 is a user-friendly web application built with React (TypeScript) and Chakra UI that allows users to view flight availability and detailed flight information across India. Users can filter flights by trip type (one-way/round trip), departure and arrival airports, travel class, and passenger details (adults, children, infants). The app displays relevant flight information including airline name, departure/arrival times, airports, and estimated prices. Please note: this application is intended for informational purposes only and does not support ticket booking.
+⚠️ Note: Udaan is a flight information checker only. It does not support ticket booking.
